@@ -4,7 +4,7 @@ API Path:
 http://localhost:5001/people
 
 Methods:
-GET /people
-POST /people
-PUT /people
-DELETE /people
+* GET /people
+* POST /people
+* PUT /people
+* DELETE /people
